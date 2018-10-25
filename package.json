@@ -1,0 +1,14 @@
+{
+  "name": "testbot",
+  "version": "0.0.1",
+  "description": "Some weird bot.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Azathoth",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
